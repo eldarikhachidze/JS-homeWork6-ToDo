@@ -1,0 +1,11 @@
+.delete {
+    background-color: red;
+    color: white;
+    width: 80px;
+    height: 40px;
+}
+
+
+li {
+    list-style: none;
+}
